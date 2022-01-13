@@ -24,6 +24,9 @@ jobs:
           mkdir -p ./dist/JKMP/Dependencies
           mv ./dist/0Harmony.dll ./dist/JKMP/Dependencies/
           mv ./dist/Semver.dll ./dist/JKMP/Dependencies/
+      - name: Copy steam redistributables
+        run: |
+          cp -R ./Redist/Steam/ ./dist/
       - name: Download JKMP.Core.Loader.NetFramework
         uses: robinraju/release-downloader@v1.3
         with:
