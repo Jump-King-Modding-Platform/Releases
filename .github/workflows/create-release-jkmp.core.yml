@@ -26,7 +26,7 @@ jobs:
           mv ./dist/Semver.dll ./dist/JKMP/Dependencies/
       - name: Copy steam redistributables
         run: |
-          cp -R ./Redist/Steam/ ./dist/
+          cp ./Redist/Steam/* ./dist/
       - name: Download JKMP.Core.Loader.NetFramework
         uses: robinraju/release-downloader@v1.3
         with:
