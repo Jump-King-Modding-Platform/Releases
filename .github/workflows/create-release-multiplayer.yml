@@ -1,0 +1,37 @@
+name: Create a Multiplayer release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout files
+        uses: actions/checkout@v2
+      - name: Download JKMP.Plugin.Multiplayer
+        uses: robinraju/release-downloader@v1.3
+        with:
+          repository: Jump-King-Multiplayer/JKMP.Plugin.Multiplayer
+          latest: true
+          fileName: JKMP.Plugin.Multiplayer.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          out-file-path: ./temp/
+      - name: Extract files to dist folder
+        run: |
+          mkdir -p ./dist/JKMP/Plugins/Multiplayer
+          unzip ./temp/JKMP.Plugin.Multiplayer.zip -d ./dist/JKMP/Plugins/Multiplayer
+      - name: Package release
+        uses: vimtor/action-zip@v1
+        with:
+          files: dist/
+          dest: out/Multiplayer.zip
+      - name: Create release
+        uses: ncipollo/release-action@v1
+        with:
+          name: Multiplayer
+          artifacts: out/Multiplayer.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: "mp_latest"
+          draft: true # Details will be filled in manually before release if necessary. Also allows for testing the release before it's published.
