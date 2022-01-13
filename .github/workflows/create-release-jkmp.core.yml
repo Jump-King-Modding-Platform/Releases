@@ -37,12 +37,12 @@ jobs:
         with:
           repository: Jump-King-Multiplayer/JKMP.Patcher
           latest: true
-          fileName: Build.zip
+          fileName: JKMP.Patcher.zip
           token: ${{ secrets.GITHUB_TOKEN }}
-          out-file-path: ./temp/Patcher/
+          out-file-path: ./temp/
       - name: Extract patcher
         run: |
-          unzip ./temp/Patcher/Build.zip -d ./dist/
+          unzip ./temp/JKMP.Patcher.zip -d ./dist/
       - name: Package JKMP.Core
         uses: vimtor/action-zip@v1
         with:
