@@ -32,6 +32,17 @@ jobs:
           fileName: JKMP.Core.Loader.NetFramework.dll
           token: ${{ secrets.GITHUB_TOKEN }}
           out-file-path: ./dist/JKMP/Loaders/
+      - name: Download patcher
+        uses: robinraju/release-downloader@v1.3
+        with:
+          repository: Jump-King-Multiplayer/JKMP.Patcher
+          latest: true
+          fileName: Build.zip
+          token: ${{ secrets.GITHUB_TOKEN }}
+          out-file-path: ./temp/Patcher/
+      - name: Extract patcher
+        run: |
+          unzip ./temp/Patcher/Build.zip -d ./dist/
       - name: Package JKMP.Core
         uses: vimtor/action-zip@v1
         with:
