@@ -1,16 +1,18 @@
-# Core
-## About
+# Download
+
+## Core
+### About
 Core is the modloader that manages plugins. It is required if you want to run Multiplayer or any other plugins.
-## Download
+### Download
 [v0.8.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.8.3/Core.zip) (latest)
 
-# Multiplayer
-## About
+## Multiplayer
+### About
 This is the plugin that adds multiplayer support to Jump King.
 
 **Note that it requires Core to be installed as well!**
-## Download
-### **Requires Core 0.8.3**
+### Download
+**Requires Core 0.8.3**\
 [v0.1.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.3/Multiplayer.zip) (latest)\
 [v0.1.2](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.2/Multiplayer.zip)
 
