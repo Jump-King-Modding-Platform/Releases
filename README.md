@@ -20,8 +20,8 @@ This is the plugin that adds multiplayer support to Jump King.
 
 ## How to install Core
 1. Download the latest version above.
-   * (Optional) If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases.
-   * (Optional) Open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step. [Image](.github/media/instructions/install/unblock.png)
+   * If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases.
+   * Some people have had to unblock the zip file in Windows, most have not. If you wanna play it safe, open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step. [Image](.github/media/instructions/install/unblock.png)
 2. Extract the files to the game directory
    1. Right click the zip file and press ```Extract All...```
    2. Right click the game in Steam and click ```Manage > Browse local files``` [Image](.github/media/instructions/install/steam-browse-local-files.png)
@@ -32,10 +32,10 @@ This is the plugin that adds multiplayer support to Jump King.
 ## How to install plugins
 In this guide we're gonna be using the Multiplayer plugin as an example.
 1. Download the latest version of the plugin.
-   * (Optional) If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases. [Image](.github/media/instructions/install/dl-keep-dangerous-mp.png)
-   * (Optional) Open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step.
+   * If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases. [Image](.github/media/instructions/install/dl-keep-dangerous-mp.png)
+   * Some people have had to unblock the zip file in Windows, most have not. If you wanna play it safe, open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step.
 2. (Optional) If you're installing a new version of the mod, delete the old one first in the game folder ```JKMP/Plugins/Multiplayer```.
-2. Extract the files to the game directory
+3. Extract the files to the game directory
    1. Right click the downloaded zip file and press ```Extract all...```
    2. Right click the game in Steam and click ```Manage > Browse local files``` [Image](.github/media/instructions/install/steam-browse-local-files.png)
    3. Copy the file path and paste it into the extraction file path. [Image](.github/media/instructions/install/copy-game-filepath.png)
