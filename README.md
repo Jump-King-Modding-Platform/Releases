@@ -42,4 +42,14 @@ In this guide we're gonna be using the Multiplayer plugin as an example.
    4. If you get the question to overwrite existing files make sure you deleted the previous version of the plugin first.
 
 # Troubleshooting
-(todo)
+It might help to enable the console to troubleshoot if the game doesn't start or if it's acting weird. To do this add ```--console``` to the game's launch arguments. [Image](.github/media/instructions/troubleshooting/steam-console-launch-arguments.png)
+
+<details>
+<summary>
+Expand me to find some common errors that may be thrown at you
+</summary>
+
+```System.NotSupportedException: An attempt was made to load an assembly from a network location...```
+
+To fix this you have to unblock the zip file in Windows before extracting it to the game folder. There's instructions for this above in the substeps of step 1. When extracting the second time make sure you overwrite all existing files.
+</details>
