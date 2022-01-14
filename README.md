@@ -14,7 +14,9 @@ This is the plugin that adds multiplayer support to Jump King.
 [v0.1.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.3/Multiplayer.zip) (latest)\
 [v0.1.2](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.2/Multiplayer.zip)
 
-# How to install Core
+# Instructions
+
+## How to install Core
 1. Download the latest version above.
    * (Optional) If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases.
    * (Optional) Open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step. [Image](.github/media/instructions/install/unblock.png)
@@ -25,7 +27,7 @@ This is the plugin that adds multiplayer support to Jump King.
    4. Click Extract and choose ```Replace the files in the destination``` when it asks to overwrite existing files. [Image](.github/media/instructions/install/overwrite-existing-files.png)
 3. Open the game folder and run JKMP.Patcher. Make sure the message ```All patches applied successfully!``` is displayed. [Image](.github/media/instructions/install/run-patcher.png)
 
-# How to install plugins
+## How to install plugins
 In this guide we're gonna be using the Multiplayer plugin as an example.
 1. Download the latest version of the plugin.
    * (Optional) If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases. [Image](.github/media/instructions/install/dl-keep-dangerous-mp.png)
