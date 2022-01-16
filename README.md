@@ -13,7 +13,8 @@ This is the plugin that adds multiplayer support to Jump King.
 **Note that it requires Core to be installed as well!**
 ### Download
 **Requires Core 0.8.3**\
-[v0.1.5](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.5/Multiplayer.zip) (latest)\
+[v0.1.6](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.6/Multiplayer.zip) (latest)\
+[v0.1.5](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.5/Multiplayer.zip)\
 [v0.1.4](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.4/Multiplayer.zip)\
 [v0.1.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.3/Multiplayer.zip)\
 [v0.1.2](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.2/Multiplayer.zip)
