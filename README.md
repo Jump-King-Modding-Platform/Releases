@@ -56,4 +56,8 @@ Expand me to find some common errors that may be thrown at you
   Alternatively: The game closes on startup without anything showing up.
 
 To fix this you have to unblock the zip file in Windows before extracting it to the game folder. There's instructions for this above in the substeps of step 1. When extracting the second time make sure you overwrite all existing files.
+
+```Failed to connect to matchmaking server: Your version is outdated```
+
+To fix this you have to update your multiplayer version.
 </details>
