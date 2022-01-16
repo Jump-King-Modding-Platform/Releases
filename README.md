@@ -22,7 +22,7 @@ This is the plugin that adds multiplayer support to Jump King.
 # Jump King Plus support
 It's fully possible to have both JK+ and JKMP installed at the same time, but JK+ needs to be installed first.
 
-If you installed JKMP before JK+ then rerun the JKMP.Patcher file in the game directory (mentioned in the instructions).
+If you installed JK+ after JKMP then rerun the JKMP.Patcher file in the game directory (mentioned in the instructions).
 
 # Instructions
 
