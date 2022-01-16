@@ -22,7 +22,7 @@ This is the plugin that adds multiplayer support to Jump King.
 ## How to install Core
 1. Download the latest version above.
    * If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases.
-   * Some people have had to unblock the zip file in Windows, most have not. If you wanna play it safe, open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step. [Image](.github/media/instructions/install/unblock.png)
+   * **IMPORTANT:** Most people have had to unblock the zip file in Windows, a small percentage so far have not. Open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you're good. [Image](.github/media/instructions/install/unblock.png)
 2. Extract the files to the game directory
    1. Right click the zip file and press ```Extract All...```
    2. Right click the game in Steam and click ```Manage > Browse local files``` [Image](.github/media/instructions/install/steam-browse-local-files.png)
@@ -34,7 +34,7 @@ This is the plugin that adds multiplayer support to Jump King.
 In this guide we're gonna be using the Multiplayer plugin as an example.
 1. Download the latest version of the plugin.
    * If your browser warns that the file is unsafe, choose the option to keep it anyway. This warning appears for files that are rarely downloaded. This will most likely be the case for new releases. [Image](.github/media/instructions/install/dl-keep-dangerous-mp.png)
-   * Some people have had to unblock the zip file in Windows, most have not. If you wanna play it safe, open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you can skip this step.
+   * **IMPORTANT:** Most people have had to unblock the zip file in Windows, a small percentage so far have not. Open the location of the zip file and right click it and press Properties at the bottom. Check ```Unblock``` in the bottom right of the window and then press OK. If it does not exist then you're good.
 2. (Optional) If you're installing a new version of the mod, delete the old one first in the game folder ```JKMP/Plugins/Multiplayer```.
 3. Extract the files to the game directory
    1. Right click the downloaded zip file and press ```Extract all...```
@@ -50,7 +50,8 @@ It might help to enable the console to troubleshoot if the game doesn't start or
 Expand me to find some common errors that may be thrown at you
 </summary>
 
-```System.NotSupportedException: An attempt was made to load an assembly from a network location...```
+```System.NotSupportedException: An attempt was made to load an assembly from a network location...```\
+  Alternatively: The game closes on startup without anything showing up.
 
 To fix this you have to unblock the zip file in Windows before extracting it to the game folder. There's instructions for this above in the substeps of step 1. When extracting the second time make sure you overwrite all existing files.
 </details>
