@@ -25,6 +25,7 @@ jobs:
           mv ./dist/0Harmony.dll ./dist/JKMP/Dependencies/
           mv ./dist/Semver.dll ./dist/JKMP/Dependencies/
           mv ./dist/Facepunch.Steamworks.Win32.dll ./dist/JKMP/Dependencies/
+          mv ./dist/System.Collections.Immutable.dll ./dist/JKMP/Dependencies/
       - name: Copy steam redistributables
         run: |
           cp ./Redist/Steam/* ./dist/
