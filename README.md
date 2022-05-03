@@ -18,7 +18,8 @@ This is the plugin that adds multiplayer support to Jump King.
 ### Download
 **Requires Core 0.11.x**\
 **Requires [Visual C++ Redistributable x86 for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)**\
-[v0.3.0](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.3.0/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/mp_0.3.0) (latest)
+[v0.3.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.3.1/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/mp_0.3.1) (latest)\
+[v0.3.0](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.3.0/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/mp_0.3.0)
 
 **Requires Core 0.9.1**\
 [v0.2.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.2.1/Multiplayer.zip)
