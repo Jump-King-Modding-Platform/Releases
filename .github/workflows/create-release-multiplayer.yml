@@ -13,7 +13,7 @@ jobs:
       - name: Download JKMP.Plugin.Multiplayer
         uses: robinraju/release-downloader@v1.3
         with:
-          repository: Jump-King-Multiplayer/JKMP.Plugin.Multiplayer
+          repository: Jump-King-Modding-Platform/JKMP.Plugin.Multiplayer
           latest: true
           fileName: JKMP.Plugin.Multiplayer.zip
           token: ${{ secrets.GITHUB_TOKEN }}

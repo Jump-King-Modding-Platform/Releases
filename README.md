@@ -4,11 +4,11 @@
 ### About
 Core is the modloader that manages plugins. It is required if you want to run Multiplayer or any other plugins.
 ### Download
-[v0.11.2](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.11.2/Core.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/core_0.11.2) (latest)\
-[v0.11.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.11.1/Core.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/core_0.11.1)\
-[v0.9.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.9.1/Core.zip)\
-[v0.9.0](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.9.0/Core.zip)\
-[v0.8.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/core_0.8.3/Core.zip)
+[v0.11.2](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/core_0.11.2/Core.zip) | [patch notes](https://github.com/Jump-King-Modding-Platform/Releases/releases/tag/core_0.11.2) (latest)\
+[v0.11.1](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/core_0.11.1/Core.zip) | [patch notes](https://github.com/Jump-King-Modding-Platform/Releases/releases/tag/core_0.11.1)\
+[v0.9.1](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/core_0.9.1/Core.zip)\
+[v0.9.0](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/core_0.9.0/Core.zip)\
+[v0.8.3](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/core_0.8.3/Core.zip)
 
 ## Multiplayer
 ### About
@@ -18,22 +18,22 @@ This is the plugin that adds multiplayer support to Jump King.
 ### Download
 **Requires Core 0.11.x**\
 **Requires [Visual C++ Redistributable x86 for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145)**\
-[v0.3.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.3.1/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/mp_0.3.1) (latest)\
-[v0.3.0](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.3.0/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Multiplayer/Releases/releases/tag/mp_0.3.0)
+[v0.3.1](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.3.1/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Modding-Platform/Releases/releases/tag/mp_0.3.1) (latest)\
+[v0.3.0](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.3.0/Multiplayer.zip) | [patch notes](https://github.com/Jump-King-Modding-Platform/Releases/releases/tag/mp_0.3.0)
 
 **Requires Core 0.9.1**\
-[v0.2.1](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.2.1/Multiplayer.zip)
+[v0.2.1](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.2.1/Multiplayer.zip)
 
 **Requires Core 0.9.0**\
-[v0.2.0](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.2.0/Multiplayer.zip)
+[v0.2.0](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.2.0/Multiplayer.zip)
 
 **Requires Core 0.8.3**\
-[v0.1.7](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.7/Multiplayer.zip)\
-[v0.1.6](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.6/Multiplayer.zip)\
-[v0.1.5](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.5/Multiplayer.zip)\
-[v0.1.4](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.4/Multiplayer.zip)\
-[v0.1.3](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.3/Multiplayer.zip)\
-[v0.1.2](https://github.com/Jump-King-Multiplayer/Releases/releases/download/mp_0.1.2/Multiplayer.zip)
+[v0.1.7](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.7/Multiplayer.zip)\
+[v0.1.6](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.6/Multiplayer.zip)\
+[v0.1.5](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.5/Multiplayer.zip)\
+[v0.1.4](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.4/Multiplayer.zip)\
+[v0.1.3](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.3/Multiplayer.zip)\
+[v0.1.2](https://github.com/Jump-King-Modding-Platform/Releases/releases/download/mp_0.1.2/Multiplayer.zip)
 
 # Jump King Plus support
 It's fully possible to have both JK+ and JKMP installed at the same time, but JK+ needs to be installed first.
