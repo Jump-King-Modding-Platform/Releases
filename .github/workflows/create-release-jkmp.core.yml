@@ -31,16 +31,16 @@ jobs:
           cp ./Redist/Steam/* ./dist/
       - name: Download JKMP.Core.Loader.NetFramework
         uses: robinraju/release-downloader@v1.3
-        with:Jump-King-Modding-Platform
-          repository: Jump-King-Multiplayer/JKMP.Core.Loader.NetFramework
+        with: Jump-King-Modding-Platform
+          repository: Jump-King-Modding-Platform/JKMP.Core.Loader.NetFramework
           latest: true
           fileName: JKMP.Core.Loader.NetFramework.dll
           token: ${{ secrets.GITHUB_TOKEN }}
           out-file-path: ./dist/JKMP/Loaders/
       - name: Download patcher
         uses: robinraju/release-downloader@v1.3
-        with:Jump-King-Modding-Platform
-          repository: Jump-King-Multiplayer/JKMP.Patcher
+        with: Jump-King-Modding-Platform
+          repository: Jump-King-Modding-Platform/JKMP.Patcher
           latest: true
           fileName: JKMP.Patcher.zip
           token: ${{ secrets.GITHUB_TOKEN }}
